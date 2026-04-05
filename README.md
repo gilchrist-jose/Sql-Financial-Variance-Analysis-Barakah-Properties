@@ -114,12 +114,6 @@ Classifies each building into a performance tier based on annual collection effi
 ## Files
 
 ```
-|
-├── buildings.csv
-├── units.csv
-├── rental_targets.csv
-├── rental_actuals.csv
-├── maintenance_costs.csv
 └── Solution_script.sql
 ```
 
